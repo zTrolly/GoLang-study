@@ -21,6 +21,10 @@ To guide me I will use the [Go RoadMap](https://roadmap.sh/golang)
 - Make()
 - Structs
 
+## Days
+### Day 1: 
+- I learned basic concepts of the language, follow the steps of [this live](https://www.youtube.com/watch?v=rzDF3xkI5_w&ab_channel=FullCycle) to learn how the beginning of an implementation in Go works
+
 
 ## 👍🏾 Feedback
 
