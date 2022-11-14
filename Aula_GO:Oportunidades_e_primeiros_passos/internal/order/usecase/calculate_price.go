@@ -5,6 +5,7 @@ import (
 	database "testeAula/internal/order/infra/dataBase"
 )
 
+// DTO -> Data Transfer Object
 type OrderInputDTO struct {
 	ID    string
 	Price float64
